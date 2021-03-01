@@ -7,7 +7,7 @@
 <div align="center">
 
 ### Connect with me:
-[<img align="center" alt="linkedin" width="60px" src="https://icon-icons.com/icons2/134/PNG/64/linkedin_socialnetwork_20684.png" />](https://www.linkedin.com/in/JHenrique404/)
+[<img align="center" alt="linkedin" width="60px" src="https://icon-icons.com/icons2/134/PNG/64/linkedin_socialnetwork_20684.png" />](https://www.linkedin.com/in/henrique-maia-patricio-4023901a2/)
 [<img align="center" alt="instagram" width="60px" src="https://icon-icons.com/icons2/134/PNG/64/instagram_socialnetwork_20686.png" />](https://www.instagram.com/joao.henrique404/) 
 
 ---
